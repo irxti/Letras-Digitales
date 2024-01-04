@@ -12,6 +12,6 @@ while True:
             print("Has introducido un número menor.")
         else:
             print("¡Has acertado!")
-            break  # Rompe el bucle cuando se acierta
+            break  
     else:
         print("El número introducido no es válido.")
